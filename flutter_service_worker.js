@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "c020725530cea3d5186453db28f37231",
-"assets/AssetManifest.json": "73fd3e05f894575810ff6b4dbbab9cc2",
+const RESOURCES = {"assets/AssetManifest.bin": "6cb0412eeeb6dd2dbf002f8ddc7cfbcd",
+"assets/AssetManifest.json": "f430a988ec442c2fff20d1f4907ecc65",
 "assets/assets/fonts/hnd/HelveticaNowDisplay-ExtBlk.otf": "c5827617a46dc45ce9b378737ac2cff1",
 "assets/assets/fonts/hnd/HelveticaNowDisplay-ExtraBold.otf": "6139a93e7833c865825d3c43c56b00f4",
 "assets/assets/fonts/hnd/HelveticaNowDisplay-Hairline.otf": "b96e43611badd5fe48553de5bba8d8c2",
@@ -20,6 +20,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "c020725530cea3d5186453db28f37231
 "assets/assets/images/crashguard_icon.png": "fc458cb1a87ce36449ed8a0be3ad8034",
 "assets/assets/images/crashguard_splash.png": "45fa40fbe6e81a372ff02459cca92dfa",
 "assets/assets/images/crumpled_paper.jpg": "6775d262674e001e3943d3c5c28841df",
+"assets/assets/images/email.svg": "70bf4c36630738e3ff7e5eeadefe29ef",
 "assets/assets/images/gab_image.png": "3fd99681a87f336c1d5711b2999c494f",
 "assets/assets/images/github-mark-white.svg": "a0b00583d93c2f7084ad151ee0849934",
 "assets/assets/images/github-mark.svg": "8dcc6b5262f3b6138b1566b357ba89a9",
@@ -31,8 +32,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "c020725530cea3d5186453db28f37231
 "assets/assets/images/splash_image.png": "1fd1de81e49592db8a4783f5cc74c6e8",
 "assets/assets/videos/composed_1.m4v": "a67b123743936dc7e9b9dbf57bb21bd0",
 "assets/FontManifest.json": "9c6ed55bc00ce9f31259a3684a082f46",
-"assets/fonts/MaterialIcons-Regular.otf": "bafe823c5636a4410d645ee9a9706ffa",
-"assets/NOTICES": "f98fe74120ba64352d9adb14c23c99fc",
+"assets/fonts/MaterialIcons-Regular.otf": "6eb3867be07224f4c7c4b7a69a9bdba2",
+"assets/NOTICES": "7efa066d8014cf30358ed87151591f40",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/packages/wakelock_plus/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
@@ -53,9 +54,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "c020725530cea3d5186453db28f37231
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "4831ec531d2ddbb00fc33158a36c5f8e",
-"/": "4831ec531d2ddbb00fc33158a36c5f8e",
-"main.dart.js": "8b4a626e87c6712a1e0daef65be47e1f",
+"index.html": "c0e2e0b6b155e765a014cd4dbaec0bc7",
+"/": "c0e2e0b6b155e765a014cd4dbaec0bc7",
+"main.dart.js": "79d4412c89e18896e4e819a5f628f50b",
 "manifest.json": "f3223a4be59959f88172ada2774c60e1",
 "version.json": "e829db8bdf95193b144e2aa51e11f2f1"};
 // The application shell files that are downloaded before a service worker can
